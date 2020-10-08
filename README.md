@@ -1,2 +1,3 @@
 # newbie
 gogogo！
+#include<iostream>
